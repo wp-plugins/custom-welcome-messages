@@ -15,11 +15,11 @@ This plugin will allow you to add a custom welcome message to your login/registe
 <strong>Features:</strong>
 <ul><li>Add a custom welcome message to all users who visit your login/register page.</li><li>Add a separate custom message to your logout page.</li><li>Change the default wordpress logo to your own custom image.</li><li>Change the default hover text from "Powered by Wordpress" to your own custom message.</li><li>Change the default logo link from "www.wordpress.org" to your own custom link.</li><li>Manipulate the CSS for the message boxes to make beautiful effects and custom styles.</li><li>Add links, images, videos, embeds, iframes, or any other HTML compliant tags.</li></ul>
 
-<strong>Support:</strong>
-<a href="http://forum.joshlobe.com/member.php?action=register&referrer=1">Visit my support forum.</a>
+<strong>Support:</strong><br />
+<a href="http://forum.joshlobe.com/member.php?action=register&referrer=1">Visit my support forum.</a><br />
 <a href="http://www.joshlobe.com/2012/01/wordpress-custom-welcome-messages/">Visit my personal blog page for this plugin.</a>
 
-<strong>Other Plugins by Me:</strong>
+<strong>Other Plugins by Me:</strong><br />
 <a href="http://wordpress.org/extend/plugins/ultimate-tinymce/">Ultimate TinyMCE</a> - Finally unlock the true power of your visual editor.
 
 
